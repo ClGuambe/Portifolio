@@ -1,0 +1,31 @@
+GUIA DE FOTOGRAFIAS — CLEDSON LÍGIO GUAMBE
+
+O layout original foi mantido. Para personalizar as fotos, substitua os arquivos mantendo os mesmos nomes e extensões, ou altere o caminho no index.html.
+
+1. images/bg_1.png
+   FOTO PRINCIPAL: retrato profissional de Cledson, de preferência em pé ou meio-corpo, boa iluminação e fundo limpo.
+   É usada na primeira tela e na secção "Sobre".
+
+2. images/bg_2.png
+   FOTO SECUNDÁRIA: outra fotografia profissional de Cledson, preferencialmente com pose diferente da primeira.
+   É usada no segundo slide da página inicial.
+
+3. images/about.jpg
+   FOTO DE APOIO: fotografia profissional relacionada ao perfil de professor/programador.
+   É usada na secção de contacto.
+
+4. images/project-1.jpg até images/project-6.jpg
+   IMAGENS DOS PROJETOS: use screenshots reais dos seus sistemas, páginas web, códigos ou interfaces.
+   Sugestão:
+   - project-1.jpg: Sistema de Gestão Escolar
+   - project-2.jpg: Academiku / plataforma académica
+   - project-3.jpg: Conversor de Moedas
+   - project-4.jpg: Sistema de Controlo de Presenças
+   - project-5.jpg: Projeto de tecnologia educacional
+   - project-6.jpg: Outro projeto web/programação
+
+5. images/image_1.jpg, image_2.jpg, image_3.jpg
+   FOTOS/ILUSTRAÇÕES DO BLOG: imagens relacionadas a programação, educação e tecnologia.
+
+IMPORTANTE:
+Não publique no GitHub fotografias que contenham documentos pessoais, número de BI, morada exata ou outros dados privados.
